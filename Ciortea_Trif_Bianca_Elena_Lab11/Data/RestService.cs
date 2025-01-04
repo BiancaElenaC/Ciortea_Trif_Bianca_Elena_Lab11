@@ -10,6 +10,7 @@ using Newtonsoft.Json;
 namespace Ciortea_Trif_Bianca_Elena_Lab11.Data
 {
     public class RestService : IRestService
+
     
         {
 HttpClient client;
